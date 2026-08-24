@@ -1,1 +1,2 @@
-# csharp-kurs
+# csharp-kurs 
+Console.WriteLine("hello, world!")
